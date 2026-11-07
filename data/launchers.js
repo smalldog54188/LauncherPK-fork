@@ -302,7 +302,7 @@ const db_launchers = [
         ]
     },
     {
-        name: "PCL Pro",
+        name: "PCL FE",
         group: "pcl",
         dev: "泡泡_Sweet",
         url: "https://www.bilibili.com/video/BV1yJxq6LEFC",
